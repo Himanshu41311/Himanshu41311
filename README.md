@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍🎓 2nd-year B.Tech CSE student at GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY (2027 batch)
+- 🧑‍🎓 3rd-year B.Tech CSE student at GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY (2027 batch)
 - 🛠️ Building backend systems with **Java**, **Spring Boot**, and **PostgreSQL**
 - 💪 486+ day streak on **LeetCode** with 700+ DSA problems solved
 - 🎯 Interested in scalable system design, APIs, and performance optimization
