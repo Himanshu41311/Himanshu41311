@@ -38,7 +38,7 @@ A custom search engine backend built with Java and Spring Boot.
 
 ### 📈 DSA Tracker – LeetCode
 Solving 700+ problems in DSA (Arrays, Trees, DP, Graphs)  
-- 🔥 Current streak: **486 days**  
+- 🔥 Current streak: **500 days**  
 - 🌐 [LeetCode Profile](https://leetcode.com/u/Himanshu__Joshi/)
 
 ---
