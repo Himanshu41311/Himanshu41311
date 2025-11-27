@@ -45,7 +45,7 @@ Solving 700+ problems in DSA (Arrays, Trees, DP, Graphs)
 
 ## 📜 Resume & Contact
 
-- 📄 [Download Resume (PDF)](https://github.com/Himanshu41311/Himanshu41311/raw/main/RES.pdf
+- 📄 [Download Resume (PDF)](https://github.com/Himanshu41311/Himanshu41311/raw/main/resume.pdf
 )
 - 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-joshi-463b54326/)
 - 💻 [GitHub](https://github.com/Himanshu41311)
