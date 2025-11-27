@@ -53,4 +53,4 @@ Solving 700+ problems in DSA (Arrays, Trees, DP, Graphs)
 
 ---
 
-⭐ *Currently applying for backend opportunities. Let’s connect!*
+⭐ *Currently applying for new opportunities. Let’s connect!*
