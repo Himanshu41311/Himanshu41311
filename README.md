@@ -1,7 +1,7 @@
 # Hi, I'm Himanshu Joshi 👋
 
 🎓 B.Tech CSE Student | 🧠 Backend Developer | 💻 Java | 🛠️ Spring Boot | 🐘 PostgreSQL 
-📍 Based in India | 🔥 LeetCode 486-day streak | 💡 Passionate about system design & clean backend architectures
+📍 Based in India | 🔥 LeetCode 750-day streak | 💡 Passionate about system design & clean backend architectures
 
 ---
 
