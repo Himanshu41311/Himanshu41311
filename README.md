@@ -1,56 +1,90 @@
 # Hi, I'm Himanshu Joshi 👋
 
-🎓 B.Tech CSE Student | 🧠 Backend Developer | 💻 Java | 🛠️ Spring Boot | 🐘 PostgreSQL 
-📍 Based in India | 🔥 LeetCode 750-day streak | 💡 Passionate about system design & clean backend architectures
+🎓 B.Tech CSE Student | 🧠 Backend Developer | 💻 Java | 🛠️ Spring Boot | 🗄️ PostgreSQL | ⚡ Redis
+📍 India | 🏆 LeetCode Guardian | 💡 Interested in Distributed Systems & Scalable Backend Architecture
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍🎓 Final year B.Tech CSE student at GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY (2027 batch)
-- 🛠️ Building backend systems with **Java**, **Spring Boot**, and **PostgreSQL**
-- 💪 800+ day streak on **LeetCode** with 1k+ DSA problems solved
-- 🎯 Interested in scalable system design, APIs, and performance optimization
+* 🧑‍🎓 B.Tech Computer Science and Engineering student at **Guru Gobind Singh Indraprastha University**, graduating in 2027
+* 🛠️ Building backend and distributed systems using **Java, Spring Boot, PostgreSQL, and Redis**
+* 🏆 **Guardian-level** competitive programmer on LeetCode with a peak contest rating of **2132**
+* 💪 Solved **1,000+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks
+* 🎯 Interested in **distributed systems, scalable APIs, system design, and backend architecture**
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, SQL, HTML/CSS (basic)
-- **Frameworks:** Spring Boot
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub, Postman, VS Code
-- **Learning:** Docker, Redis, System Design
+* **Languages:** Java, C++, C, Python, Go, SQL
+* **Backend:** Spring Boot, REST APIs, Microservices
+* **Databases:** PostgreSQL, MongoDB
+* **Infrastructure & Messaging:** Redis, Kafka
+* **Cloud & Storage:** AWS S3, Railway, Supabase
+* **Tools:** Git, GitHub, Maven, Postman
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔍 Search Engine Backend
-A custom search engine backend built with Java and Spring Boot.  
-- ✅ Web crawler that extracts content from 100+ URLs  
-- ✅ Reverse indexing system with stop word filtering  
-- ✅ Search API endpoints for query resolution  
-- ✅ PostgreSQL used to store crawled data  
+### ⚡ Lymit — Rate Limiter as a Service
+
+A distributed rate-limiting service designed to protect REST APIs without requiring changes to application code.
+
+* ✅ Supports **Global, User, API Key, and IP-based** rate-limiting policies
+* ✅ Redis-backed request counters for low-latency rate-limit evaluation
+* ✅ PostgreSQL for persistent rate-limiting configuration
+* ✅ Spring Boot microservices with REST APIs for route registration and policy management
+* ✅ Deployed backend services using **Railway**, **Upstash Redis**, and **Supabase PostgreSQL**
+
+📌 [GitHub Repository](https://github.com/Himanshu41311/LYMIT-General-Purpose-Rate-Limiter)
+
+---
+
+### 🔍 Search Engine Component — Web Crawler & Reverse Indexer
+
+A modular backend search engine component built to crawl, process, and index web content.
+
+* ✅ Web crawler for extracting and processing web pages
+* ✅ HTML parsing using **Jsoup**
+* ✅ Tokenization and stop-word filtering
+* ✅ Inverted index for efficient keyword-based retrieval
+* ✅ Clean Architecture-based modular backend design
+* ✅ PostgreSQL for persistent data storage
+
 📌 [GitHub Repository](https://github.com/Himanshu41311/Search-Engine-Backend-Web-Crawler-Reverse-Indexer)
 
 ---
 
-### 📈 DSA Tracker – LeetCode
-Solving 700+ problems in DSA (Arrays, Trees, DP, Graphs)  
-- 🔥 Current streak: **500 days**  
-- 🌐 [LeetCode Profile](https://leetcode.com/u/Himanshu__Joshi/)
+### 🐾 Pawluxe — Pet Adoption Platform
+
+A microservices-based backend project designed to support pet discovery and adoption workflows.
+
+* ✅ OTP-based authentication and role-based authorization
+* ✅ REST APIs for user and pet management
+* ✅ PostgreSQL database for users, pets, and adoption records
+* ✅ AWS S3 integration for pet image storage
+
+---
+
+## 🧠 Competitive Programming
+
+🏆 **LeetCode Guardian**
+📊 **Peak Contest Rating:** 2132
+💻 **1,000+ DSA Problems Solved**
+
+🌐 [LeetCode Profile](https://leetcode.com/u/Himanshu__Joshi/)
 
 ---
 
 ## 📜 Resume & Contact
 
-- 📄 [Download Resume (PDF)](https://github.com/Himanshu41311/Himanshu41311/raw/main/resume.pdf
-)
-- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-joshi-463b54326/)
-- 💻 [GitHub](https://github.com/Himanshu41311)
-- 📧 himanshujoshi192005@gmail.com
+* 📄 [Resume](https://github.com/Himanshu41311/Himanshu41311/raw/main/resume.pdf)
+* 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-joshi-463b54326/)
+* 💻 [GitHub](https://github.com/Himanshu41311)
+* 📧 **[himanshujoshi192005@gmail.com](mailto:himanshujoshi192005@gmail.com)**
 
 ---
 
-⭐ *Currently applying for new opportunities. Let’s connect!*
+⭐ *Currently exploring backend engineering, distributed systems, and scalable system design.*
